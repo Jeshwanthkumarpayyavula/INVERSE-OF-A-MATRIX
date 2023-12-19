@@ -21,7 +21,7 @@ End the program
 
 ## Program:
 ```
-Developed By:212223240114
+Developed By:Jeshwanth Kumar
 Reg.no:212223240114
 
 import numpy as np
