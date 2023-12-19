@@ -21,8 +21,9 @@ End the program
 
 ## Program:
 ```
-Developed By:Jeshwanth Kumar
-Reg.no:212223240114
+#To write a python program to find the inverse of a matrix
+#Developed By:Jeshwanth Kumar
+#Reg.no:212223240114
 
 import numpy as np
 a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
